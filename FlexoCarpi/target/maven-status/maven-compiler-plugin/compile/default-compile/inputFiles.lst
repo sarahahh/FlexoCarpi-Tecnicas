@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Downloads\FlexoCarpi\src\main\java\com\mycompany\flexocarpi\dao\ConexionBD.java
+C:\Users\USUARIO\Downloads\FlexoCarpi\src\main\java\com\mycompany\flexocarpi\dao\SolicitudDao.java
+C:\Users\USUARIO\Downloads\FlexoCarpi\src\main\java\com\mycompany\flexocarpi\JakartaRestConfiguration.java
+C:\Users\USUARIO\Downloads\FlexoCarpi\src\main\java\com\mycompany\flexocarpi\model\Solicitud.java
+C:\Users\USUARIO\Downloads\FlexoCarpi\src\main\java\com\mycompany\flexocarpi\resources\JakartaEE8Resource.java
+C:\Users\USUARIO\Downloads\FlexoCarpi\src\main\java\com\mycompany\flexocarpi\servlets\ActualizarSolicitudServlet.java
+C:\Users\USUARIO\Downloads\FlexoCarpi\src\main\java\com\mycompany\flexocarpi\servlets\BuscarSolicitudServlet.java
+C:\Users\USUARIO\Downloads\FlexoCarpi\src\main\java\com\mycompany\flexocarpi\servlets\EditarSolicitudServlet.java
+C:\Users\USUARIO\Downloads\FlexoCarpi\src\main\java\com\mycompany\flexocarpi\servlets\EliminarSolicitudServlet.java
+C:\Users\USUARIO\Downloads\FlexoCarpi\src\main\java\com\mycompany\flexocarpi\servlets\EnviarSolicitudServlet.java
+C:\Users\USUARIO\Downloads\FlexoCarpi\src\main\java\com\mycompany\flexocarpi\TestConexionBD.java
